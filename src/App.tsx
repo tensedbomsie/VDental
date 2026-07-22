@@ -317,7 +317,7 @@ function Doctor() {
             loading="lazy"
             width={1200}
             height={1500}
-            className="w-full aspect-[4/5] object-cover grayscale"
+            className="w-full aspect-[4/5] object-cover"
           />
         </div>
         <div className="lg:col-span-6 lg:col-start-7 order-1 lg:order-2">
