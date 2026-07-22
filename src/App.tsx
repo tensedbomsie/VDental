@@ -7,7 +7,7 @@ import smile3 from './assets/smile-3.jpg'
 import smile4 from './assets/smile-4.jpg'
 import doctor from './assets/doctor.jpg'
 
-const BOOKING_URL = 'https://myoryx.com'
+const BOOKING_URL = 'https://mychart.myoryx.com/patient/#/auth/onlineschedule?realm=vdental&univers=com'
 
 export default function App() {
   return (
